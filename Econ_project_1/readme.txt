@@ -1,0 +1,4 @@
+Intro
+
+
+The purpose of this project is to formulate an econometric model in which we estimate parameters byvarious methods and test the hypothesis that a Cobb-Douglas production function yields constant returns.In addition, we test if the conditions for the various methods hold after which we conclude themost valid method. We test the hypothesis by Wald-test with the most valid method.The given data is a panel data set with T = 12 and it contains two explanatory variables: log ofemployment (lit) and log of adjusted capital stock (kit). The output variable is log of deflated sales. N,the number of firms, is 441.The econometric model is as following:yit = βKkit + βLlit + vitWhere vit = ln(Ait. Ait consists of two error terms, ci which is time invariant and uit which is timedependent.
