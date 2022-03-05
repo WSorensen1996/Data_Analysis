@@ -1,5 +1,6 @@
 Intro
 
+(Full report not included)
 
 The purpose of this project is to formulate an econometric model in which we estimate parameters by
 various methods and test the hypothesis that a Cobb-Douglas production function yields constant returns.
@@ -20,4 +21,4 @@ have to be met. Through various tests it can be concluded that the conditions fo
 effects and random effects doesn’t hold. Vice versa, we learned that the conditions for first differences to
 be valid were met. Although, it has to be stated that there is no strict exogeneity but we have argued that
 FD consists of more exogeneity than FE. Thus, it can be concluded that, with the given data, the firms
-don’t have CRS but diminishing returns since we saw in figure 3 that ˆ βFD K = 0.0630 and ˆ βFD L = 0.5487.
+don’t have CRS but diminishing returns since we saw in figure 3(Found in full report) that ˆ βFD K = 0.0630 and ˆ βFD L = 0.5487.
